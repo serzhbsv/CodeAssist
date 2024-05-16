@@ -35,9 +35,9 @@ task clean(type: Delete) {
 }
 
 ext {
-    compileSdkVersion = 32
+    compileSdkVersion = 31
     buildToolsVersion = '30.0.2'
-    targetSdkVersion = 32
+    targetSdkVersion = 31
     minSdkVersion = 26
 
     applicationId = "com.tyron.code"
